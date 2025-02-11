@@ -1,0 +1,17 @@
+body {
+    text-align: center; 
+    background-color: darkcyan;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: white;
+  }
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+}
